@@ -1,6 +1,7 @@
 # A24-Bicloin
 
-Distributed Systems 2020-2021, 2nd semester project
+Distributed Systems 2020-2021, 2nd semester project.
+Tech: Java and gRPC
 
 
 ## Authors
